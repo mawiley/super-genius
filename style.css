@@ -1,0 +1,19 @@
+/*
+Theme Name: Super Genius
+Theme URI: https://github.com/mawiley/super-genius
+Description: Starter Wordpress theme made with Bootstrap
+Version: 1.0
+Author: Mark Wiley
+Author URI: 
+Tags: wordpress, theme, starter, minimal, bootstrap
+*/
+
+@import url('bootstrap/css/bootstrap.min.css');
+@import url('bootstrap/css/bootstrap-responsive.min.css');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+	font-family: 'Ubuntu', sans-serif;
+}
